@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @methoomirza
+- 👋 Hi, I’m @Shahid Mirza
 - 👀 I’m interested in learning of new and advance techneques of programming
 - 🌱 I’m currently learning python , R and Data Science
 - 💞️ I’m looking to collaborate on whatever new learning tehcniqies
