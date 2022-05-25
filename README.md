@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python , R and Data Science
 - 💞️ I’m looking to collaborate on whatever new learning tehcniqies
 - 📫 How to reach me (comments me)
+- https://share.streamlit.io/methoomirza/me/main/app.py
 
 
 <!---
